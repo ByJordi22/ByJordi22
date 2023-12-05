@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ByJordi22
+- 👋 Hi, I’m @JordiDomenech
 - 👀 I’m interested in learning to program
 - 🌱 I’m currently learning Java
 - 📫 How to reach me jordidomenechvargas22@gmail.com
